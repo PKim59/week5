@@ -1,9 +1,20 @@
+h1, h2 {
+  font-family: Arial, Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+body {
+  font-family: 'Courier New', Courier, monospace;
+}
+
 .headings_Red {
   color: red;
 }
 .beige1 {
   background-color: beige;
 }
+
+
 
 #LondonID {
     background-color: pink;
